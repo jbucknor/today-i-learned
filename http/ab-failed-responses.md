@@ -88,3 +88,6 @@ Percentage of the requests served within a certain time (ms)
 ```
 
 **In this example, first response content-length is 10 ("hello" x 2), so every responses has content length is 5 or 15, will be assumed a failed response.**
+
+[[Reuse-cookies-between-multi-requests-in-Curl-tool]]
+
